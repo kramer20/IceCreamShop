@@ -1,0 +1,41 @@
+tr:nth-child(even){
+	background-color:#909595;
+	
+}
+tr:nth-child(odd){
+	background-color:#B0B3B3;
+
+}
+
+table {
+	font-family: 'Raleway', sans-serif;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-top: 30px;
+	font-size: 30px;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+/* unvisited link */
+a:link {
+    background-color: none;
+}
+
+/* visited link */
+a:visited {
+    background-color: none;
+}
+
+/* mouse over link */
+a:hover {
+    background-color: #74C7BC;
+}
+
+/* selected link */
+a:active {
+    background-color: #74C7BC;;
+}

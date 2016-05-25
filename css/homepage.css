@@ -1,0 +1,54 @@
+h1 {
+	font-size: 100px;	
+	font-family: 'Indie Flower', cursive;
+	color: white;
+}
+
+img {
+	width: 150px;
+}
+
+body {
+	background-color: lightgray
+
+}
+.logoDiv {
+    display: inline-block;
+    margin-top: 30px;
+    vertical-align: top;
+    margin-left: 10px;
+
+}
+
+.backgroundblue {
+	background-color:#74C7BC;
+	padding: 40px;
+}
+
+#mainimage img{
+	margin: auto;
+	width: 800px;
+	padding: 50px;
+}
+
+p {
+	font-size: 40px;
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	margin-top: 20px;
+}
+
+.menubar {
+	margin-left: 600px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+
+a {
+	color:#FF9111;
+	margin-left: 5px;
+}
+
+
+
+
